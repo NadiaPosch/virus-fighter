@@ -12,7 +12,7 @@ import gui.Window;
  */
 public class Player extends GameObject {
     private static final int POINTS = 50;
-    private static final int MAX_LIVES = 5;
+    private static final int MAX_LIVES = 3;
 
     private int score;
     private int lives;
